@@ -2,6 +2,5 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder11111/Topic.htm" />
+    Title="[%=System.LinkedTitle%]" />
 </CatapultToc>
